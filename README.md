@@ -1,2 +1,2 @@
-# LeetCodeArrayEasyProblems
-Easy marked Array problem solutions 
+# LeetCodeEasyProblems
+Easy marked problem solutions 
